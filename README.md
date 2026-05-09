@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # EcoSortAI 
-=======
 # 🌍 EcoSort AI - Smart Waste Classification System
 
 **Intelligent waste segregation platform using Deep Learning & PyTorch**
