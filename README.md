@@ -23,7 +23,7 @@
 - [📁 Project Structure](#-project-structure)
 - [🌱 Environmental Impact](#-environmental-impact)
 - [📚 Technologies Used](#-technologies-used)
-- [🎓 IBM Alignment](#-ibm-alignment)
+- [🎓 Alignment](#-alignment)
 - [🔮 Future Enhancements](#-future-enhancements)
 - [👤 Author & Contact](#-author--contact)
 - [📄 License](#-license)
@@ -514,7 +514,7 @@ Equivalent to:
 
 ---
 
-## 🎓 IBM Alignment
+## 🎓 Alignment
 
 ### ✅ Responsible AI Principles
 
@@ -836,7 +836,7 @@ streamlit run app.py
 ## 📖 Documentation
 
 - **README.md** - This file (project overview)
-- **PROJECT_REPORT.md** - Detailed technical report
+- **EcoSort_AI_Project_Report** - Detailed technical report
 - **requirements.txt** - Python dependencies
 - **Code Comments** - Inline documentation in Python files
 
@@ -873,4 +873,4 @@ EcoSort AI combines **sustainability** with **intelligent technology** to create
 [⬆ back to top](#-ecosort-ai---smart-waste-classification-system)
 
 </div>
->>>>>>> cf3837838c3fde755a915f2c7008603cad08841f
+
