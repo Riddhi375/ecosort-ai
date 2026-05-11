@@ -45,7 +45,7 @@ EcoSort AI is an **enterprise-grade waste classification system** powered by **D
 ✅ **Demonstrates responsible AI** principles and sustainability focus  
 
 **Perfect For:**
-- 🏢 **IBM Enterprise Solutions** - Responsible AI + Sustainability
+- 🏢 **Enterprise Solutions** - Responsible AI + Sustainability
 - 🎓 **University Projects** - Deep Learning + Computer Vision
 - 🌍 **Startups** - Real-world environmental solutions
 - 📚 **Portfolio** - Professional ML project showcase
